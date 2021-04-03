@@ -1,0 +1,610 @@
+﻿{
+    "Sheet1": [
+        {
+            "S.No": "1",
+            "Item Name": "Veg. Sandwich",
+            "Description": "(fresh veggie with butter, green chatni and spices)",
+            "Rs": "35",
+            "Catgeory": "SANDWICH"
+        },
+        {
+            "S.No": "2",
+            "Item Name": "Veggie Toast Sandwich",
+            "Description": "(fresh veggie, butter, green chatni and spices)",
+            "Rs": "45",
+            "Catgeory": "SANDWICH"
+        },
+        {
+            "S.No": "3",
+            "Item Name": "Diet Toast",
+            "Description": "(fresh veggie, green chatni, with brown bread and spices)",
+            "Rs": "45",
+            "Catgeory": "SANDWICH"
+        },
+        {
+            "S.No": "4",
+            "Item Name": "Masala Toas",
+            "Description": "(fresh veggie, potato crushed with peas, stuffing with spices Option with cheese topped with extra charges)",
+            "Rs": "55",
+            "Catgeory": "SANDWICH"
+        },
+        {
+            "S.No": "6",
+            "Item Name": "Jam Toast",
+            "Description": "(pineapple jam / mix fruit jam / orange -----------)",
+            "Rs": "40",
+            "Catgeory": "SANDWICH"
+        },
+        {
+            "S.No": "7",
+            "Item Name": "Veggie Mayo Toast",
+            "Description": "(finely diced veggie in mayonnaise dressing & spices)",
+            "Rs": "55",
+            "Catgeory": "SANDWICH"
+        },
+        {
+            "S.No": "8",
+            "Item Name": "Veggie Cheese Toast Sandwich",
+            "Description": "(fresh veggie, butter, green chatni, cheese and spices)",
+            "Rs": "65",
+            "Catgeory": "SANDWICH"
+        },
+        {
+            "S.No": "9",
+            "Item Name": "Chilly Cheese Toast",
+            "Description": "(finely diced veggie & cheese marinated with chilly & spices)",
+            "Rs": "70",
+            "Catgeory": "SANDWICH"
+        },
+        {
+            "S.No": "10",
+            "Item Name": "Veggie Grill (without cheese)",
+            "Description": "(veggie, butter & spices)",
+            "Jumbo in Rs": "90",
+            "Mini in Rs.": "70",
+            "Catgeory": "GRILLED SANDWICH"
+        },
+        {
+            "S.No": "11",
+            "Item Name": "Diet Grill",
+            "Description": "(tomato, capsicum, onion, cucumber & spices)",
+            "Jumbo in Rs": "10",
+            "Mini in Rs.": "70",
+            "Catgeory": "GRILLED SANDWICH"
+        },
+        {
+            "S.No": "12",
+            "Item Name": "Veggie Cheesy Grill",
+            "Description": "(veggie, butter & spices with lots of cheese stuffed)",
+            "Jumbo in Rs": "110",
+            "Mini in Rs.": "80",
+            "Catgeory": "GRILLED SANDWICH"
+        },
+        {
+            "S.No": "13",
+            "Item Name": "Paneer Cheesy Grill",
+            "Description": "(diced paneer cubes, veggie purie, melted with cheese & butter)",
+            "Jumbo in Rs": "120",
+            "Mini in Rs.": "90",
+            "Catgeory": "GRILLED SANDWICH"
+        },
+        {
+            "S.No": "14",
+            "Item Name": "Masala Cheesy Grill",
+            "Description": "(stuffed potatos with peas, marinated with butter and spices with cheese)",
+            "Jumbo in Rs": "120",
+            "Mini in Rs.": "90",
+            "Catgeory": "GRILLED SANDWICH"
+        },
+        {
+            "S.No": "15",
+            "Item Name": "Mayo Grill",
+            "Description": "(veggie dressing with mayonnaise, spices garnished with tomato & cucumber)",
+            "Jumbo in Rs": "125",
+            "Mini in Rs.": "100",
+            "Catgeory": "GRILLED SANDWICH"
+        },
+        {
+            "S.No": "16",
+            "Item Name": "Mushroom Cheesy Grill",
+            "Description": "(diced mushroom with veggie, butter & cheese pickled with garlic & spices)",
+            "Jumbo in Rs": "130",
+            "Mini in Rs.": "100",
+            "Catgeory": "GRILLED SANDWICH"
+        },
+        {
+            "S.No": "17",
+            "Item Name": "Plain Cheese Pizza",
+            "Description": "(topped with lots of cheese)",
+            "Rs": "120",
+            "Catgeory": "PIZZA"
+        },
+        {
+            "S.No": "18",
+            "Item Name": "Veggie Pizza",
+            "Description": "(tomato, onion, capsicum & cheese)",
+            "Rs": "120",
+            "Catgeory": "PIZZA"
+        },
+        {
+            "S.No": "19",
+            "Item Name": "Hot & Spicy Pizza",
+            "Description": "(tomato, onion & capsicum garnished with green chilly cheese)",
+            "Rs": "125",
+            "Catgeory": "PIZZA"
+        },
+        {
+            "S.No": "20",
+            "Item Name": "Corn Peas Pizza",
+            "Description": "(sweet corn, green peas & cheese)",
+            "Rs": "125",
+            "Catgeory": "PIZZA"
+        },
+        {
+            "S.No": "21",
+            "Item Name": "Paneer Lovers Pizza",
+            "Description": "(lots of paneer cubes, tomato, onion, capsicum & cheese)",
+            "Rs": "170",
+            "Catgeory": "PIZZA"
+        },
+        {
+            "S.No": "22",
+            "Item Name": "Exotica Pizza",
+            "Description": "(black olives, sweet corn, onion, tomato, green capsicum & cheese)",
+            "Rs": "180",
+            "Catgeory": "PIZZA"
+        },
+        {
+            "S.No": "23",
+            "Item Name": "Veggie Lover Pizza",
+            "Description": "(onion, tomato, capsicum, lots of mushroom, sweet corn & cheese)",
+            "Rs": "160",
+            "Catgeory": "PIZZA"
+        },
+        {
+            "S.No": "24",
+            "Item Name": "Rise Up Special Pizza",
+            "Description": "(capsicum, tomato, mushroom, onion, sweet corn & black olive)",
+            "Rs": "170",
+            "Catgeory": "PIZZA"
+        },
+        {
+            "S.No": "25",
+            "Item Name": "Pav Bhaji",
+            "Rs": "90",
+            "Catgeory": "PAV BHAJI"
+        },
+        {
+            "S.No": "26",
+            "Item Name": "Jain Pav Bhaji",
+            "Rs": "95",
+            "Catgeory": "PAV BHAJI"
+        },
+        {
+            "S.No": "27",
+            "Item Name": "Cheese Pav Bhaji",
+            "Rs": "110",
+            "Catgeory": "PAV BHAJI"
+        },
+        {
+            "S.No": "28",
+            "Item Name": "Khada Pav Bhaji",
+            "Rs": "100",
+            "Catgeory": "PAV BHAJI"
+        },
+        {
+            "S.No": "29",
+            "Item Name": "Only Bhaji",
+            "Rs": "70",
+            "Catgeory": "PAV BHAJI"
+        },
+        {
+            "S.No": "30",
+            "Item Name": "Mushroom Pav Bhaji",
+            "Rs": "120",
+            "Catgeory": "PAV BHAJI"
+        },
+        {
+            "S.No": "31",
+            "Item Name": "Paneer Pav Bhaji",
+            "Rs": "130",
+            "Catgeory": "PAV BHAJI"
+        },
+        {
+            "S.No": "32",
+            "Item Name": "Cheese Pav Bhaji",
+            "Rs": "130",
+            "Catgeory": "PAV BHAJI"
+        },
+        {
+            "S.No": "33",
+            "Item Name": "Masala Pav (2 Pcs)",
+            "Rs": "80",
+            "Catgeory": "PAV BHAJI"
+        },
+        {
+            "S.No": "34",
+            "Item Name": "Rise Up Special Pav Bhaji",
+            "Rs": "130",
+            "Catgeory": "PAV BHAJI"
+        },
+        {
+            "S.No": "35",
+            "Item Name": "Extra Pav (1 pc)",
+            "Rs": "10",
+            "Catgeory": "PAV BHAJI"
+        },
+        {
+            "S.No": "36",
+            "Item Name": "Extra Butter / Cheese",
+            "Rs": "25",
+            "Catgeory": "PAV BHAJI"
+        },
+        {
+            "S.No": "37",
+            "Item Name": "Sada Pav (1 pc)",
+            "Rs": "5",
+            "Catgeory": "PAV BHAJI"
+        },
+        {
+            "S.No": "38",
+            "Item Name": "Veg. Burger",
+            "Rs": "45",
+            "Catgeory": "BURGERS"
+        },
+        {
+            "S.No": "39",
+            "Item Name": "Veg. Cheese Burger",
+            "Rs": "60",
+            "Catgeory": "BURGERS"
+        },
+        {
+            "S.No": "40",
+            "Item Name": "Veg. Hot Dog",
+            "Rs": "60",
+            "Catgeory": "BURGERS"
+        },
+        {
+            "S.No": "41",
+            "Item Name": "Veg. Cheese Hot Dog",
+            "Rs": "75",
+            "Catgeory": "BURGERS"
+        },
+        {
+            "S.No": "42",
+            "Item Name": "French Fries",
+            "Rs": "65",
+            "Catgeory": "BURGERS"
+        },
+        {
+            "S.No": "43",
+            "Item Name": "Royal",
+            "Rs": "70",
+            "Catgeory": "FALOODA"
+        },
+        {
+            "S.No": "44",
+            "Item Name": "Kesar",
+            "Rs": "70",
+            "Catgeory": "FALOODA"
+        },
+        {
+            "S.No": "45",
+            "Item Name": "Rise Up Special Falooda",
+            "Rs": "90",
+            "Catgeory": "FALOODA"
+        },
+        {
+            "S.No": "46",
+            "Item Name": "Fruit Salad",
+            "Rs": "70",
+            "Catgeory": "FALOODA"
+        },
+        {
+            "S.No": "47",
+            "Item Name": "Fruit Salad with Ice Cream",
+            "Rs": "85",
+            "Catgeory": "FALOODA"
+        },
+        {
+            "S.No": "48",
+            "Item Name": "Rise Up Special Gadbad",
+            "Rs": "130",
+            "Catgeory": "FALOODA"
+        },
+        {
+            "S.No": "49",
+            "Item Name": "Apple",
+            "Rs": "80",
+            "Catgeory": "MILKSHAKE"
+        },
+        {
+            "S.No": "50",
+            "Item Name": "Rose",
+            "Rs": "60",
+            "Catgeory": "MILKSHAKE"
+        },
+        {
+            "S.No": "51",
+            "Item Name": "Chickoo",
+            "Rs": "70",
+            "Catgeory": "MILKSHAKE"
+        },
+        {
+            "S.No": "52",
+            "Item Name": "Vanilla",
+            "Rs": "60",
+            "Catgeory": "MILKSHAKE"
+        },
+        {
+            "S.No": "53",
+            "Item Name": "Cold Coffee",
+            "Rs": "65",
+            "Catgeory": "MILKSHAKE"
+        },
+        {
+            "S.No": "54",
+            "Item Name": "Chocolate",
+            "Rs": "70",
+            "Catgeory": "MILKSHAKE"
+        },
+        {
+            "S.No": "55",
+            "Item Name": "Banana",
+            "Rs": "50",
+            "Catgeory": "MILKSHAKE"
+        },
+        {
+            "S.No": "56",
+            "Item Name": "Kesar",
+            "Rs": "75",
+            "Catgeory": "MILKSHAKE"
+        },
+        {
+            "S.No": "57",
+            "Item Name": "Pineapple",
+            "Rs": "70",
+            "Catgeory": "MILKSHAKE"
+        },
+        {
+            "S.No": "58",
+            "Item Name": "Sitaphal",
+            "Rs": "90",
+            "Catgeory": "MILKSHAKE"
+        },
+        {
+            "S.No": "59",
+            "Item Name": "Strawberry (Crush)",
+            "Rs": "90",
+            "Catgeory": "MILKSHAKE"
+        },
+        {
+            "S.No": "60",
+            "Item Name": "Cold Coffee with Ice Cream",
+            "Rs": "85",
+            "Catgeory": "MILKSHAKE"
+        },
+        {
+            "S.No": "61",
+            "Item Name": "Chocolate shake with Ice Cream",
+            "Rs": "90",
+            "Catgeory": "MILKSHAKE"
+        },
+        {
+            "S.No": "62",
+            "Item Name": "Chocolate with Nuts",
+            "Rs": "90",
+            "Catgeory": "MILKSHAKE"
+        },
+        {
+            "S.No": "63",
+            "Item Name": "Kiwi Milk Shake",
+            "Rs": "110",
+            "Catgeory": "MILKSHAKE"
+        },
+        {
+            "S.No": "64",
+            "Item Name": "Mango Milk Shake (Pulp)",
+            "Rs": "90",
+            "Catgeory": "MILKSHAKE"
+        },
+        {
+            "S.No": "65",
+            "Item Name": "Fresh Lime Juice",
+            "Rs": "40",
+            "Catgeory": "JUICE"
+        },
+        {
+            "S.No": "66",
+            "Item Name": "Fresh Lime Soda",
+            "Rs": "55",
+            "Catgeory": "JUICE"
+        },
+        {
+            "S.No": "67",
+            "Item Name": "Water Melon",
+            "Rs": "50",
+            "Catgeory": "JUICE"
+        },
+        {
+            "S.No": "68",
+            "Item Name": "Mosambi",
+            "Rs": "60",
+            "Catgeory": "JUICE"
+        },
+        {
+            "S.No": "69",
+            "Item Name": "Maramari",
+            "Rs": "60",
+            "Catgeory": "JUICE"
+        },
+        {
+            "S.No": "70",
+            "Item Name": "Munna Munni",
+            "Rs": "60",
+            "Catgeory": "JUICE"
+        },
+        {
+            "S.No": "71",
+            "Item Name": "Orange",
+            "Rs": "60",
+            "Catgeory": "JUICE"
+        },
+        {
+            "S.No": "72",
+            "Item Name": "Pineapple",
+            "Rs": "60",
+            "Catgeory": "JUICE"
+        },
+        {
+            "S.No": "73",
+            "Item Name": "Cocktail",
+            "Rs": "65",
+            "Catgeory": "JUICE"
+        },
+        {
+            "S.No": "74",
+            "Item Name": "Apple",
+            "Rs": "65",
+            "Catgeory": "JUICE"
+        },
+        {
+            "S.No": "75",
+            "Item Name": "Grape",
+            "Rs": "65",
+            "Catgeory": "JUICE"
+        },
+        {
+            "S.No": "76",
+            "Item Name": "Anar",
+            "Rs": "70",
+            "Catgeory": "JUICE"
+        },
+        {
+            "S.No": "77",
+            "Item Name": "Strawberry Crush",
+            "Rs": "80",
+            "Catgeory": "JUICE"
+        },
+        {
+            "S.No": "78",
+            "Item Name": "Mango Pulp",
+            "Rs": "80",
+            "Catgeory": "JUICE"
+        },
+        {
+            "S.No": "79",
+            "Item Name": "Mango (Seaosnal)",
+            "Rs": "170",
+            "Catgeory": "JUICE & MILKSHAKE"
+        },
+        {
+            "S.No": "80",
+            "Item Name": "Strawberry (Seaosnal)",
+            "Rs": "160",
+            "Catgeory": "JUICE & MILKSHAKE"
+        },
+        {
+            "S.No": "81",
+            "Item Name": "Sitaphal (Seaosnal)",
+            "Rs": "160",
+            "Catgeory": "JUICE & MILKSHAKE"
+        },
+        {
+            "S.No": "82",
+            "Item Name": "Sweet Lassi",
+            "Rs": "45",
+            "Catgeory": "LASSI"
+        },
+        {
+            "S.No": "83",
+            "Item Name": "Kesar Lassi",
+            "Rs": "50",
+            "Catgeory": "LASSI"
+        },
+        {
+            "S.No": "84",
+            "Item Name": "Mango Lassi",
+            "Rs": "50",
+            "Catgeory": "LASSI"
+        },
+        {
+            "S.No": "85",
+            "Item Name": "Rise Spl. Lassi",
+            "Rs": "60",
+            "Catgeory": "LASSI"
+        },
+        {
+            "S.No": "86",
+            "Item Name": "Butter Milk",
+            "Rs": "25",
+            "Catgeory": "LASSI"
+        },
+        {
+            "S.No": "87",
+            "Item Name": "Fruit Punch",
+            "Rs": "140",
+            "Catgeory": "MOCKTAIL"
+        },
+        {
+            "S.No": "88",
+            "Item Name": "Pina Colada",
+            "Rs": "140",
+            "Catgeory": "MOCKTAIL"
+        },
+        {
+            "S.No": "89",
+            "Item Name": "Virgin Mojito",
+            "Rs": "140",
+            "Catgeory": "MOCKTAIL"
+        },
+        {
+            "S.No": "90",
+            "Item Name": "Strawberry Mojito",
+            "Rs": "140",
+            "Catgeory": "MOCKTAIL"
+        },
+        {
+            "S.No": "91",
+            "Item Name": "Swicekiss",
+            "Rs": "140",
+            "Catgeory": "MOCKTAIL"
+        },
+        {
+            "S.No": "92",
+            "Item Name": "Gava Grass",
+            "Rs": "140",
+            "Catgeory": "MOCKTAIL"
+        },
+        {
+            "S.No": "93",
+            "Item Name": "Orange Blossoms",
+            "Rs": "120",
+            "Catgeory": "BLOSSOMS"
+        },
+        {
+            "S.No": "94",
+            "Item Name": "Water Melon Blossoms",
+            "Rs": "120",
+            "Catgeory": "BLOSSOMS"
+        },
+        {
+            "S.No": "95",
+            "Item Name": "Pineapple Blossoms",
+            "Rs": "120",
+            "Catgeory": "BLOSSOMS"
+        },
+        {
+            "S.No": "96",
+            "Item Name": "Half Ltr.",
+            "Rs": "10",
+            "Catgeory": "WATER"
+        },
+        {
+            "S.No": "97",
+            "Item Name": "One Ltr",
+            "Rs": "20",
+            "Catgeory": "WATER"
+        }
+    ]
+}
